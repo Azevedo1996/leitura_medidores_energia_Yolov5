@@ -10,14 +10,14 @@ O modelo pode ser usado para automatizar a leitura de medidores de energia, ou q
 
 
 ## Imagens dos resultados gerados
-
+## Model_L
 ![model_L F1_curve](https://github.com/Azevedo1996/leitura_medidores_energia_Yolov5/blob/main/results/model_L/F1_curve.png)
 
 ![model_L confusion_matrix](https://github.com/Azevedo1996/leitura_medidores_energia_Yolov5/blob/main/results/model_L/confusion_matrix.png)
 
 ![model_L results](https://github.com/Azevedo1996/leitura_medidores_energia_Yolov5/blob/main/results/model_L/results.png)
 
---------------------------------------------------------------------------
+## Model_S
 
 ![model_S F1_curve](https://github.com/Azevedo1996/leitura_medidores_energia_Yolov5/blob/main/results/model_S/F1_curve.png)
 
