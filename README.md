@@ -7,6 +7,8 @@ O modelo é capaz de identificar e localizar números em imagens de medidores de
 
 O modelo pode ser usado para automatizar a leitura de medidores de energia, ou que pode ajudar as empresas de energia a melhorar os resultados e a eficiência de seus processos.
 
+*OBS: o dataset utilizado é pesado por conta disso encontra-se no link*
+https://drive.google.com/file/d/1KNjnegkANhxHJIrP6FqR77s0oRvfGrEG/view?usp=drive_link
 
 
 ## Imagens dos resultados gerados
